@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{world_wrap}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.date = %q{2014-09-23}
   s.summary = %q{this gem will fatch countries, state, cities list.}
   s.files = [
