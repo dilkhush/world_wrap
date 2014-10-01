@@ -27,27 +27,27 @@ include WorldWrap
 # to get all the countries in the world
  countries # call this method to get all the countries in hash format
 
-# this will return a hash of countries
+ this will return a hash of countries
  
 # to get all the states of a country
 
 states({country: 'in'}) # to get all te states of india country will be code or name return by countries list
 
-# this will return a hash of states
+ this will return a hash of states
 
 # to get all the cities by a state
 
 cities({state: 'ap'}) # to get cities list by state give state code or name in parameter
 
-# this will return a array of cities list
+ this will return a array of cities list
 
 # to get all the cities by a country
 
 cities({state: 'in'}) # to get cities list by country give country code or name in parameter
 
-# this will return a array of cities list
+ this will return a array of cities list
 
-Contribute: 
+# Contribute: 
 * add remanning cities or states for country and states level.
 * the key name should me in down case.
 * test it properly.
