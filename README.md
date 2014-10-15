@@ -15,6 +15,7 @@ Avaiable Features:
 * list of all the states of india.
 * list of al the cities of india by country wise or by state wise
 * list of all the states for us
+* list of US cities inserted
  
 How To Use:
 
